@@ -3,6 +3,6 @@ new_numbers=[]
 
 def square_array(numbers)
   array.each do |numbers|
-   new_numbers 
+  numbers=numbers**2
     return new_numbers
 end
