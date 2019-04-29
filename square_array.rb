@@ -4,5 +4,5 @@ new_numbers=[]
 def square_array(numbers)
   array.each do |numbers|
   numbers=numbers**2
-    return new_numbers
+ new_numbers.inject
 end
